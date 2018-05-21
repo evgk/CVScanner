@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="box_body">#12a4fb73</color>
+    <color name="box_border">#a4fb73</color>
+    <color name="colorAccent">#2be378</color>
+    <color name="colorPrimary">#48cdb2</color>
+    <color name="colorPrimaryDark">#299881</color>
+    <color name="dark_gray">@android:color/darker_gray</color>
+    <color name="torch_yellow">#f9c724</color>
+    <declare-styleable name="DocumentScannerFragment"><attr format="color" name="torchTint"/><attr format="color" name="torchTintLight"/><attr format="color" name="documentBorderColor"/><attr format="color" name="documentBodyColor"/></declare-styleable>
+    <dimen name="crop_edge_width">3dp</dimen>
+    <dimen name="crop_handle_corner_radius">7dp</dimen>
+    <dimen name="crop_handle_edge_radius">5dp</dimen>
+    <dimen name="crop_hit_hysteresis">40dp</dimen>
+    <dimen name="crop_margin">24dp</dimen>
+    <string name="app_name">CVScanner</string>
+    <string name="camera_busy">Camera is busy!</string>
+    <string name="camera_permission_msg">Permission to access the camera is required.</string>
+    <string name="storage_permission_msg">Permission to access sdcard is required to store images.</string>
+    <style name="CVScannerTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+</resources>
