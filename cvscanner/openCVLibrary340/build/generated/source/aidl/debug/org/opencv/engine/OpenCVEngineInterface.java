@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/openCVLibrary340/src/main/aidl/org/opencv/engine/OpenCVEngineInterface.aidl
+ * Original file: /Users/shashvatkedia/Desktop/CVScanner/cvscanner/openCVLibrary340/src/main/aidl/org/opencv/engine/OpenCVEngineInterface.aidl
  */
 package org.opencv.engine;
 /**

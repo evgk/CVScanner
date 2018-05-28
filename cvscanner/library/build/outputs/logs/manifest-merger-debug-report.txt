@@ -1,97 +1,97 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:1:1-36:12
-INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:1:1-36:12
-INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:1:1-36:12
-INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:1:1-36:12
-INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:1:1-36:12
-INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:1:1-36:12
-INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:1:1-36:12
+ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:1:1-36:12
 	package
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:2:5-41
-		INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
-		INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:2:5-41
+		INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
+		INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:1:1-36:12
-		INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
+		INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:1:1-36:12
+		INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:1:1-36:12
-		INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
+		INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:1:1-36:12
+		INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.CAMERA
-ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:4:5-64
+ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:4:5-64
 	android:name
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:4:22-62
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:4:22-62
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:5:5-80
+ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:5:5-80
 	android:name
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:5:22-78
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:5:22-78
 uses-feature#android.hardware.camera
-ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:7:5-84
+ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:7:5-84
 	android:required
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:7:58-82
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:7:58-82
 	android:name
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:7:19-57
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:7:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:8:5-94
+ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:8:5-94
 	android:required
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:8:68-92
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:8:68-92
 	android:name
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:8:19-67
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:8:19-67
 application
-ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:10:5-34:19
+ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:10:5-34:19
 	android:supportsRtl
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:13:9-35
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:12:9-41
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:12:9-41
 	android:allowBackup
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:11:9-35
 activity#devliving.online.cvscanner.DocumentScannerActivity
-ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:15:9-18:15
+ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:15:9-18:15
 	android:configChanges
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:17:13-59
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:17:13-59
 	android:theme
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:16:13-50
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:16:13-50
 	android:name
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:15:19-58
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:15:19-58
 activity#devliving.online.cvscanner.crop.CropImageActivity
-ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:20:9-23:15
+ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:20:9-23:15
 	android:configChanges
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:22:13-59
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:22:13-59
 	android:theme
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:21:13-50
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:21:13-50
 	android:name
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:20:19-57
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:20:19-57
 provider#devliving.online.cvscanner.util.CVFileProvider
-ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:25:9-33:20
+ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:25:9-33:20
 	android:grantUriPermissions
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:29:13-47
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:29:13-47
 	android:authorities
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:27:13-74
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:27:13-74
 	android:exported
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:28:13-37
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:28:13-37
 	android:name
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:26:13-48
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:26:13-48
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:30:13-32:53
+ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:30:13-32:53
 	android:resource
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:32:17-51
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:32:17-51
 	android:name
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:31:17-67
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml:31:17-67
 uses-sdk
-INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
-INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
-INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
-INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
+INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
+INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
+INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
+INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
-		INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
+		INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
+		INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
-		ADDED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
-		INJECTED from /Users/shashvatkedia/Desktop/temp/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
+		INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
+		ADDED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
+		INJECTED from /Users/shashvatkedia/Desktop/CVScanner/cvscanner/library/src/main/AndroidManifest.xml
