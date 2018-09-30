@@ -1,5 +1,5 @@
 # CVScanner
-Library for Android to crop/scan Documents
+Library for Android to crop/scan Documents. Implemented using OpenCV.
 </br>
 To use this Library:-
 </br>
